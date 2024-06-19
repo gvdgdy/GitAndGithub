@@ -1,0 +1,25 @@
+Setting uaernamne and other - git config --global user.name username
+
+Show username - git config -global user.name
+
+git status
+git add filename (add file by name)
+git add . (Add all the files)
+git add -A (Add all the files)
+git commit (Commit changes)
+ls -lart Shows all the hidden folders
+git init - (Initilize git repository)
+git log filename (Shows the last modified commit id and the person id)
+touch filename.extention  (Creates empty files)
+git checkout (recover file)
+git checkout -f (recover all the files)
+git diff (show the changes)
+git rm (Delete file from working directory and from staging area)
+git rm --cached (Delete file from staging area only)
+clear (clear the terminal)
+gitignore (ignore the unused files)
+git branch (name) (creates new branch)
+git branch (show all the branches)
+git checkout branch name(Switch one branch to another)
+git remote (Show the origin)
+git remote -v (show the url)
